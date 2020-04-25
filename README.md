@@ -15,48 +15,85 @@
 
 
 
-## 现有答案（欢迎未来上课的同学补充修改）
+## 现有答案（欢迎未来上课的同学修改）
 
-|名称|链接|备注|
-|---|---|---|
-|switching_conjuncts_fine|[本页](switching_conjuncts_fine.slt)|全部作业答案中包含|
-|Explosion|[本页](Explosion.slt)|全部作业答案中包含|
-|NYS_3|[本页](NYS_3.slt)|全部作业答案中包含|
-|GreenCheeseMoon1|[本页](GreenCheeseMoon1.slt)|全部作业答案中包含|
-|Disj_Elim|[本页](Disj_Elim.slt)|全部作业答案中包含|
-|NYS_1|[本页](NYS_1.slt)|全部作业答案中包含|
-|BiconditionalIntroByChaining|[本页](BiconditionalIntroByChaining.slt)|**不包含在全部答案**|
-|tertium_n_datur|[本页](tertium_n_datur.slt)|全部作业答案中包含|
-|EVENT|-|**TEST 1**|
-|KnightKnave_SmullyanKKProblem1.1|[本页](KnightKnave_SmullyanKKProblem1.1.slt)|128 symbols|
-|AthenCfromAthenBandBthenC|[本页](AthenCfromAthenBandBthenC.slt)|30 symbols|
-|EmmaHelpedToo|[本页](EmmaHelpedToo.slt)|162 symbols|
-|Special_Problem_1|[联系帮助](#一对一)|两种常见题型|
-|Th2.86PrinMath|[本页](Th2.86PrinMath.slt)|42 symbols|
-|END EVENT|-|**TEST 1**|
-|HypSyll|[本页](hypsyll.slt)|全部作业答案中包含|
-|kok31_13|[本页](kok31_13.slt)|**不包含在全部答案**，[感谢](https://www.reddit.com/r/intrologRPI/comments/882vrw/kok13_31/)|
-|RipsSays1|[本页](RipsSays1.slt)|全部作业答案中包含|
-|BogusBiconditional|[本页](BogusBiconditional.slt)|**不包含在全部答案**|
-|ThxForThePCOracle|[本页](ThxForThePCOracle.slt)|**不包含在全部答案**|
-|Contrapositive_NYS_2|[本页](Contrapositive_NYS_2.slt)|**不包含在全部答案**|
-|MiracleOn34thStreet|[本页](MiracleOn34thStreet.slt)|**不包含在全部答案**|
-|FregTHEN2|[本页](FregTHEN2.slt)|**POP QUIZ**|
-|CheatersNeverPropser|[本页](CheatersNeverPropser.slt)|Origin File is Broken|
-|ChimericalBarber|[本页](ChimericalBarber.slt)|包含在全部答案中|
-|RussellsLetter2Frege|[本页](RussellsLetter2Frege.slt)|Bonus|
-|OnlyMediumOrLargeLlamas|[本页](OnlyMediumOrLargeLlamas.slt)|包含在全部答案中|
-|EVENT|-|**TEST 2**|
-|EveryoneLikesAnyoneWhoLikesSomeoneYolandaXavier|[本页](EveryoneLikesAnyoneWhoLikesSomeoneYolandaXavier.slt)|包含在全部答案中|
-|MightyArturo|[本页](MightyArturo.slt)|包含在全部答案中|
-|AlienAbsorption|Working|~|
-|END EVENT|-|**TEST 2**|
-|Lp_and_Mp_implies_M-p_and_q|[本页](Lp_and_Mp_implies_M-p_and_q.slt)|包含在全部答案中|
-|DoubleMindedMan1|[本页](DoubleMindedMan1.slt),[图片](images/DoubleMindedMan.png)|Bonus Qs|
-|TheFreeChoicePermissionParadox|[本页](TheFreeChoicePermissionParadox.slt)|包含在全部答案中|
-|ObligatoryObligationsImplyPermissibleObligations|[本页](ObligatoryObligationsImplyPermissibleObligations.slt)|包含在全部答案中|
-|ChisholmsParadox|[本页](ChisholmsParadox.slt)|全部答案中文件损坏|
-|Modus_Tollens|正在整理|包含在全部答案中|
-|Disj_Syll|[本页](Disj_Syll.slt)|包含在全部答案中|
-|Special_Problem_3a|[联系帮助](#一对一)|生成题目，多种模版|
-|Special_Problem_3b|[联系帮助](#一对一)|生成题目，固定模版|
+| 名称                                                         | 备注                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [AthenCfromAthenBandBthenC](AthenCfromAthenBandBthenC.slt)   | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [BiconditionalIntroByChaining](BiconditionalIntroByChaining.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [BogusBiconditional](BogusBiconditional.slt)                 | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [CheatersNeverPropser](CheatersNeverPropser.slt)             | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [ChimericalBarber](ChimericalBarber.slt)                     | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [ChisholmsParadox](ChisholmsParadox.slt)                     | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [Contrapositive_NYS_2](Contrapositive_NYS_2.slt)             | 已**更新**更好答案                                           |
+| [Coq1](Coq1.slt)                                             | **新增**                                                     |
+| [Disj_Elim](Disj_Elim.slt)                                   | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [Disj_Syll](Disj_Syll.slt)                                   | **新增**                                                     |
+| [DoubleMindedMan1](DoubleMindedMan1.slt)                     | **新增**                                                     |
+| [EmmaHelpedToo](EmmaHelpedToo.slt)                           | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [EveryoneLikesAnyoneWhoLikesSomeoneYolandaXavier](EveryoneLikesAnyoneWhoLikesSomeoneYolandaXavier.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [Explosion](Explosion.slt)                                   | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [FregTHEN2](FregTHEN2.slt)                                   | 已**更新**更好答案<br>曾经的**POP QUIZ**                     |
+| [GreenCheeseMoon1](GreenCheeseMoon1.slt)                     | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [GreenCheeseMoon2](GreenCheeseMoon2.slt)                     | **新增**                                                     |
+| [hypsyll](hypsyll.slt)                                       | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [KK1point3Strings](KK1point3Strings.slt)                     | **新增**<br>**Spring '20 Test 1**                            |
+| [KnightKnave_SmullyanKKProblem1.1](KnightKnave_SmullyanKKProblem1.1.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [LarryIsSomehowSmart](LarryIsSomehowSmart.slt)               | **新增**                                                     |
+| [LevesquePrologProgram1](LevesquePrologProgram1.slt)         | **新增**                                                     |
+| [Lp_and_Mp_implies_M-p_and_q](Lp_and_Mp_implies_M-p_and_q.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [MightyArturo](MightyArturo.slt)                             | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [MiracleOn34thStreet](MiracleOn34thStreet.slt)               | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [NYS_1](NYS_1.slt)                                           | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [NYS_3](NYS_3.slt)                                           | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [ObligatoryObligationsImplyPermissibleObligations](ObligatoryObligationsImplyPermissibleObligations.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [OnlyMediumOrLargeLlamas](OnlyMediumOrLargeLlamas.slt)       | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [QuantifierShift1](QuantifierShift1.slt)                     | **新增**                                                     |
+| [RipsSaysNo1](RipsSaysNo1.slt)                               | **新增**                                                     |
+| [RipsSaysNo2](RipsSaysNo2.slt)                               | **新增**                                                     |
+| [RussellsLetter2Frege](RussellsLetter2Frege.slt)             | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)<br>曾经的Bonus |
+| [Test_1_G1](Test_1_G1.slt)                                   | **新增**<br/>**Spring '20 Test 1** AI-Generated              |
+| [Test_1_G2](Test_1_G2.slt)                                   | **新增**<br/>**Spring '20 Test 1** AI-Generated              |
+| [Test_1_G3](Test_1_G3.slt)                                   | **新增**<br/>**Spring '20 Test 1** AI-Generated              |
+| [Test_2_G1](Test_2_G1.slt)                                   | **新增**<br/>**Spring '20 Test 2** AI-Generated              |
+| [Test_2_G2](Test_2_G2.slt)                                   | **新增**<br/>**Spring '20 Test 2 **AI-Generated              |
+| [Th2.86PrinMath](Th2.86PrinMath.slt)                         | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [TheFreeChoicePermissionParadox](TheFreeChoicePermissionParadox.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [The_Dreadsbury_Mansion_Mystery1](The_Dreadsbury_Mansion_Mystery1.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)<br>曾经的Bonus<br>建议替换变量 |
+| [ThxForThePCOracle](ThxForThePCOracle.slt)                   | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [kok13_28](kok13_28.slt)                                     | **新增**                                                     |
+| [kok31_13](kok31_13.slt)                                     | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)，[感谢](https://www.reddit.com/r/intrologRPI/comments/882vrw/kok13_31/) |
+| [switching_conjuncts_fine](switching_conjuncts_fine.slt)     | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [tertium_n_datur](tertium_n_datur.slt)                       | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+
+
+
+## 暂无答案（欢迎未来上课的同学补充）
+| 名称                                | 备注                                  |
+| ----------------------------------- | ------------------------------------- |
+| 5y2se                               | ~                                     |
+| AHappyThingLikesLarry               | ~                                     |
+| AlienAbsorption                     | ~                                     |
+| EVENT                               | 曾经的**TEST 1**                      |
+| END EVENT                           | 曾经的**TEST 1**                      |
+| EVENT                               | 曾经的**TEST 2**                      |
+| END EVENT                           | 曾经的**TEST 2**                      |
+| ImpossibilityEntailsLackOfNecessity | ~                                     |
+| ImpossibilityNotObligatory          | ~                                     |
+| Modus_Tollens                       | ~                                     |
+| NoMoreThan3LazyLlamas               | ~                                     |
+| NotOb-ObPandQ_and_ObPimpliesnotQ    | ~                                     |
+| ObligatoryConjunction               | ~                                     |
+| ObligatoryConjuncts                 | ~                                     |
+| PA_12_GE_0                          | ~                                     |
+| PA_20_GE_0                          | ~                                     |
+| PA_SOL_Test                         | ~                                     |
+| RipsSays1                           | ~                                     |
+| Special_Problem_1                   | 两种常见题型                          |
+| Special_Problem_3a                  | 生成题目，多种模版                    |
+| Special_Problem_3b                  | 生成题目，固定模版                    |
+| Special_Problem_3c                  | 生成题目，[固定思路](images/sp3c.jpg) |
+| luger                               | ~                                     |
+| rainingSnowingProblem               | ~                                     |
+| test1Problem                        | ~                                     |
+| test_NL                             | ~                                     |
