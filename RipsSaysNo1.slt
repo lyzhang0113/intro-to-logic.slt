@@ -1,0 +1,170 @@
+
+(:DESCRIPTIONS
+ ((:X
+   407
+   :Y
+   46
+   :ID
+   1
+   :NAME
+   ""
+   :FORMULA
+   "(not (if \\phi \\psi))"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   162
+   :Y
+   21
+   :ID
+   3
+   :NAME
+   ""
+   :FORMULA
+   "(not \\phi)"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   87
+   :Y
+   148
+   :ID
+   4
+   :NAME
+   ""
+   :FORMULA
+   "(and (not \\psi) (not \\phi))"
+   :JUSTIFICATION
+   LOGIC::AND-INTRO)
+  (:X
+   116
+   :Y
+   277
+   :ID
+   5
+   :NAME
+   ""
+   :FORMULA
+   "(not \\phi)"
+   :JUSTIFICATION
+   LOGIC::AND-ELIM)
+  (:X
+   18
+   :Y
+   23
+   :ID
+   2
+   :NAME
+   ""
+   :FORMULA
+   "(not \\psi)"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   197
+   :Y
+   393
+   :ID
+   6
+   :NAME
+   ""
+   :FORMULA
+   "(if (not \\psi) (not \\phi))"
+   :JUSTIFICATION
+   LOGIC::IF-INTRO)
+  (:X
+   11
+   :Y
+   383
+   :ID
+   7
+   :NAME
+   ""
+   :FORMULA
+   "(not \\psi)"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   136
+   :Y
+   516
+   :ID
+   8
+   :NAME
+   ""
+   :FORMULA
+   "(not \\phi)"
+   :JUSTIFICATION
+   LOGIC::IF-ELIM)
+  (:X
+   283
+   :Y
+   509
+   :ID
+   9
+   :NAME
+   ""
+   :FORMULA
+   "\\phi"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   216
+   :Y
+   643
+   :ID
+   10
+   :NAME
+   ""
+   :FORMULA
+   "\\psi"
+   :JUSTIFICATION
+   LOGIC::NOT-ELIM)
+  (:X
+   194
+   :Y
+   767
+   :ID
+   11
+   :NAME
+   ""
+   :FORMULA
+   "(if \\phi \\psi)"
+   :JUSTIFICATION
+   LOGIC::IF-INTRO)
+  (:X
+   351
+   :Y
+   903
+   :ID
+   12
+   :NAME
+   ""
+   :FORMULA
+   "\\phi"
+   :JUSTIFICATION
+   LOGIC::NOT-ELIM))
+ :STRUCTURES
+ ((:CONCLUSION 1 :PREMISES NIL)
+  (:CONCLUSION 3 :PREMISES NIL)
+  (:CONCLUSION 4 :PREMISES (2 3))
+  (:CONCLUSION 5 :PREMISES (4))
+  (:CONCLUSION 2 :PREMISES NIL)
+  (:CONCLUSION 6 :PREMISES (5))
+  (:CONCLUSION 7 :PREMISES NIL)
+  (:CONCLUSION 8 :PREMISES (7 6))
+  (:CONCLUSION 9 :PREMISES NIL)
+  (:CONCLUSION 10 :PREMISES (9 8))
+  (:CONCLUSION 11 :PREMISES (10))
+  (:CONCLUSION 12 :PREMISES (1 11)))
+ :INTERFACE
+ (:X
+  945
+  :Y
+  176
+  :WIDTH
+  711
+  :HEIGHT
+  693
+  :PROOF-SYSTEM
+  LOGIC::PROPOSITIONAL-CALCULUS))

@@ -1,0 +1,105 @@
+
+(:DESCRIPTIONS
+ ((:X
+   186
+   :Y
+   30
+   :ID
+   3
+   :NAME
+   ""
+   :FORMULA
+   "\\psi"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   31
+   :Y
+   35
+   :ID
+   2
+   :NAME
+   ""
+   :FORMULA
+   "\\phi"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   124
+   :Y
+   162
+   :ID
+   4
+   :NAME
+   ""
+   :FORMULA
+   "(and \\phi \\psi)"
+   :JUSTIFICATION
+   LOGIC::AND-INTRO)
+  (:X
+   146
+   :Y
+   261
+   :ID
+   5
+   :NAME
+   ""
+   :FORMULA
+   "\\psi"
+   :JUSTIFICATION
+   LOGIC::AND-ELIM)
+  (:X
+   123
+   :Y
+   379
+   :ID
+   6
+   :NAME
+   ""
+   :FORMULA
+   "(if \\phi \\psi)"
+   :JUSTIFICATION
+   LOGIC::IF-INTRO)
+  (:X
+   354
+   :Y
+   207
+   :ID
+   1
+   :NAME
+   ""
+   :FORMULA
+   "(not (if \\phi \\psi))"
+   :JUSTIFICATION
+   LOGIC::ASSUME)
+  (:X
+   275
+   :Y
+   519
+   :ID
+   7
+   :NAME
+   ""
+   :FORMULA
+   "(not \\psi)"
+   :JUSTIFICATION
+   LOGIC::NOT-INTRO))
+ :STRUCTURES
+ ((:CONCLUSION 3 :PREMISES NIL)
+  (:CONCLUSION 2 :PREMISES NIL)
+  (:CONCLUSION 4 :PREMISES (3 2))
+  (:CONCLUSION 5 :PREMISES (4))
+  (:CONCLUSION 6 :PREMISES (5))
+  (:CONCLUSION 1 :PREMISES NIL)
+  (:CONCLUSION 7 :PREMISES (6 1)))
+ :INTERFACE
+ (:X
+  935
+  :Y
+  196
+  :WIDTH
+  680
+  :HEIGHT
+  480
+  :PROOF-SYSTEM
+  LOGIC::PROPOSITIONAL-CALCULUS))
