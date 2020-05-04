@@ -20,6 +20,7 @@
 | 名称                                                         | 备注                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [AthenCfromAthenBandBthenC](AthenCfromAthenBandBthenC.slt)   | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
+| [BadConditionalObligation](BadConditionalObligation.slt)     | **新增**<br>**Spring'20 Test 3**                             |
 | [BiconditionalIntroByChaining](BiconditionalIntroByChaining.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
 | [BogusBiconditional](BogusBiconditional.slt)                 | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
 | [CheatersNeverPropser](CheatersNeverPropser.slt)             | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
@@ -56,7 +57,10 @@
 | [Test_1_G2](Test_1_G2.slt)                                   | **新增**<br/>**Spring '20 Test 1** AI-Generated              |
 | [Test_1_G3](Test_1_G3.slt)                                   | **新增**<br/>**Spring '20 Test 1** AI-Generated              |
 | [Test_2_G1](Test_2_G1.slt)                                   | **新增**<br/>**Spring '20 Test 2** AI-Generated              |
-| [Test_2_G2](Test_2_G2.slt)                                   | **新增**<br/>**Spring '20 Test 2 **AI-Generated              |
+| [Test_2_G2](Test_2_G2.slt)                                   | **新增**<br/>**Spring '20 Test 2**AI-Generated               |
+| [Test_3_L1_A](Test_3_L1_A.slt)                               | **新增**<br/>**Spring '20 Test 3** AI-Generated              |
+| [Test_3_L1_B](Test_3_L1_B.slt)                               | **新增**<br/>**Spring '20 Test 3** AI-Generated              |
+| [Test_3_L1_PC](Test_3_L1_PC.slt)                             | **新增**<br/>**Spring '20 Test 3** AI-Generated              |
 | [Th2.86PrinMath](Th2.86PrinMath.slt)                         | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
 | [TheFreeChoicePermissionParadox](TheFreeChoicePermissionParadox.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)  |
 | [The_Dreadsbury_Mansion_Mystery1](The_Dreadsbury_Mansion_Mystery1.slt) | 来自原[repo](https://github.com/Rememme/intro-to-logic.slt)<br>曾经的Bonus<br>建议替换变量 |
@@ -93,6 +97,8 @@
 | Special_Problem_3a                  | 生成题目，多种模版                    |
 | Special_Problem_3b                  | 生成题目，固定模版                    |
 | Special_Problem_3c                  | 生成题目，[固定思路](images/sp3c.jpg) |
+| Test_2_G3                           | **Spring '20 Test 2**                 |
+| Test_3_L1_C                         | **Spring '20 Test 3**                 |
 | luger                               | ~                                     |
 | rainingSnowingProblem               | ~                                     |
 | test1Problem                        | ~                                     |
